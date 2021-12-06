@@ -3,7 +3,7 @@ package br.ufmg.dcc;
 public class SimpleCalculator {
 
   public int addition(int x, int y) {
-    return x + y - 7;
+    return x + y - 7 + 2;
   }
 
   public int subtraction(int x, int y) {
